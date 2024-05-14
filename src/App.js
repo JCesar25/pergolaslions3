@@ -1,23 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+
+import Contact from './Componentes/Contacto';
+import FloatingWhatsAppButton from './Componentes/FloatingWhatsAppButton';
+import Footer from './Componentes/Footer';
+import Header from './Componentes/Header';
+import Hero from "./Componentes/Hero"
+import Products from './Componentes/Productos';
+import About from './Componentes/SobreNosotros';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div >
+      <Header/>
+      <Hero/>
+      <Products/>
+      <About/>
+      <Contact/>
+      <Footer/>
+      <FloatingWhatsAppButton/>
+      
     </div>
   );
 }
