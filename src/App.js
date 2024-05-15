@@ -15,10 +15,11 @@ function App() {
       <Hero/>
       <Products/>
       <About/>
+      <ContactoFormulario/>
       <Contact/>
       <Footer/>
       <FloatingWhatsAppButton/>
-      <ContactoFormulario/>
+     
       
     </div>
   );
