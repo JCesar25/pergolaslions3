@@ -1,5 +1,6 @@
 
 import Contact from './Componentes/Contacto';
+import ContactoFormulario from './Componentes/ContactoFormulario';
 import FloatingWhatsAppButton from './Componentes/FloatingWhatsAppButton';
 import Footer from './Componentes/Footer';
 import Header from './Componentes/Header';
@@ -17,6 +18,7 @@ function App() {
       <Contact/>
       <Footer/>
       <FloatingWhatsAppButton/>
+      <ContactoFormulario/>
       
     </div>
   );
