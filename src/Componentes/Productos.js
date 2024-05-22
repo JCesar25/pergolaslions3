@@ -6,63 +6,63 @@ const products = [
   {
     id: 11,
     url: images,
-    titulo: "Pérgola Architect de aluminio",
+    title: "Pérgola Architect de aluminio",
     description:
       "Elegante pérgola de aluminio ideal para cualquier espacio exterior.",
   },
   {
     id: 10,
     url: images,
-    titulo: "Pérgola  corredera retráctil",
+    title: "Pérgola  corredera retráctil",
     description:
       "Elegante pérgola de aluminio ideal para cualquier espacio exterior.",
   },
   {
     id: 9,
     url: images,
-    titulo: "Pérgola Attractive de aluminio",
+    title: "Pérgola Attractive de aluminio",
     description:
       "Elegante pérgola de aluminio ideal para cualquier espacio exterior.",
   },
   {
     id: 8,
     url: images,
-    titulo: "Pérgola Chill-Out perpendicular de aluminio",
+    title: "Pérgola Chill-Out perpendicular de aluminio",
     description:
       "Elegante pérgola de aluminio ideal para cualquier espacio exterior.",
   },
   {
     id: 7,
     url: images,
-    titulo: "Pérgola policarbonato Light de aluminio",
+    title: "Pérgola policarbonato Light de aluminio",
     description:
       "Elegante pérgola de aluminio ideal para cualquier espacio exterior.",
   },
   {
     id: 6,
     url: images,
-    titulo: "Pérgola Atractive de aluminio1",
+    title: "Pérgola Atractive de aluminio1",
     description:
       "Elegante pérgola de aluminio ideal para cualquier espacio exterior.",
   },
   {
     id: 5,
     url: images,
-    titulo: "Pérgola Atractive de aluminio2",
+    title: "Pérgola Atractive de aluminio2",
     description:
       "Elegante pérgola de aluminio ideal para cualquier espacio exterior.",
   },
   {
     id: 4,
     url: images,
-    titulo: "Pérgola Atractive de aluminio",
+    title: "Pérgola Atractive de aluminio",
     description:
       "Elegante pérgola de aluminio ideal para cualquier espacio exterior.",
   },
   {
     id: 3,
     url: images,
-    titulo: "Pérgola Attractive de aluminio",
+    title: "Pérgola Attractive de aluminio",
     description:
       "Elegante pérgola de aluminio ideal para cualquier espacio exterior.",
   },
