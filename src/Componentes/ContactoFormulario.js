@@ -2,7 +2,7 @@ import React from 'react';
 
 const ContactoFormulario = () => {
   return (
-    <form name="contact" netlify className="container">
+    <form name="contact" data-netlify="true" className="container">
       <div className="row">
         <div className="col-md-6">
           <div className="mb-3">
