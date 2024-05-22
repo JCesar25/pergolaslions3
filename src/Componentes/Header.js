@@ -15,7 +15,7 @@ const fadeIn = keyframes`
 `;
 
 const HeaderContainer = styled.header`
-  background-color: #000; /* Fondo oscuro */
+  background-color: #D7DBDD ; /* Fondo oscuro */
   color: #fff; /* Texto blanco */
   padding: 1rem 0;
 `;
@@ -27,7 +27,7 @@ const Logo = styled.img`
 
 const Title = styled.h1`
   font-family: 'Poppins', sans-serif;
-  color: #ADD8E6; /* Azul claro */
+  color:#BA4A00; /* Azul claro */
   animation: ${fadeIn} 2s ease-in-out;
 `;
 

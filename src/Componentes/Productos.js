@@ -1,84 +1,65 @@
 import React from "react";
 import { FaStar } from "react-icons/fa";
-import images from "../Assest/Images/PortadaFAce2.png";
+
+import images1 from "../Assest/Images/PG1.jpg";
+import images2 from "../Assest/Images/PG2.jpg";
+import images3 from "../Assest/Images/PG6.jpg";
+import images4 from "../Assest/Images/PG3.jpg";
+import images5 from "../Assest/Images/PG4.jpg";
+import images6 from "../Assest/Images/PG7.jpg";
+import images7 from "../Assest/Images/PG9.jpg";
 
 const products = [
   {
     id: 11,
-    url: images,
-    title: "Pérgola Architect de aluminio",
+    url: images1,
+    title: "Pérgola Policarbonato y Metalicas",
     description:
-      "Elegante pérgola de aluminio ideal para cualquier espacio exterior.",
+      "Las cocheras techadas de estructura metálica y policarbonato .",
   },
   {
     id: 10,
-    url: images,
+    url: images2,
     title: "Pérgola  corredera retráctil",
     description:
       "Elegante pérgola de aluminio ideal para cualquier espacio exterior.",
   },
   {
     id: 9,
-    url: images,
-    title: "Pérgola Attractive de aluminio",
+    url: images3,
+    title: "Pérgola Para Garaje, Techo Para Cochera cochera, ",
     description:
-      "Elegante pérgola de aluminio ideal para cualquier espacio exterior.",
+      "Las cocheras techadas con policarbonato celular y estructura metálica son increíblemente funcionales ya que protegen su automóvil de los rayos solares y la lluvia.",
   },
   {
     id: 8,
-    url: images,
+    url: images4,
     title: "Pérgola Chill-Out perpendicular de aluminio",
     description:
       "Elegante pérgola de aluminio ideal para cualquier espacio exterior.",
   },
   {
     id: 7,
-    url: images,
+    url: images5,
     title: "Pérgola policarbonato Light de aluminio",
     description:
       "Elegante pérgola de aluminio ideal para cualquier espacio exterior.",
   },
   {
     id: 6,
-    url: images,
-    title: "Pérgola Atractive de aluminio1",
+    url: images6,
+    title: "Pérgola aluminio colinas de Santa cruz",
     description:
       "Elegante pérgola de aluminio ideal para cualquier espacio exterior.",
   },
   {
     id: 5,
-    url: images,
-    title: "Pérgola Atractive de aluminio2",
+    url: images7,
+    title: "Pérgola Atractive de aluminio de Terranova",
     description:
       "Elegante pérgola de aluminio ideal para cualquier espacio exterior.",
   },
-  {
-    id: 4,
-    url: images,
-    title: "Pérgola Atractive de aluminio",
-    description:
-      "Elegante pérgola de aluminio ideal para cualquier espacio exterior.",
-  },
-  {
-    id: 3,
-    url: images,
-    title: "Pérgola Attractive de aluminio",
-    description:
-      "Elegante pérgola de aluminio ideal para cualquier espacio exterior.",
-  },
-  {
-    id: 1,
-    url: images,
-    title: "Pérgola Architect de aluminio",
-    description:
-      "Elegante pérgola de aluminio ideal para cualquier espacio exterior.",
-  },
-  {
-    id: 2,
-    url: images,
-    title: "Pérgola corredera retráctil",
-    description: "Diseño innovador y funcional para una sombra ajustable.",
-  },
+
   // Añade más productos aquí con descripciones
   // Añade más productos aquí
 ];

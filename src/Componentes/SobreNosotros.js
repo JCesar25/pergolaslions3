@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaWhatsapp } from 'react-icons/fa';
-import aboutImage from '../Assest/Images/PortadaFAce2.png';
+import aboutImage from '../Assest/Images/PG11.PNG';
 
 const About = () => (
   <section className="about-section text-center py-5">
