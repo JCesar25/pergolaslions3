@@ -10,7 +10,8 @@ const FloatingWhatsAppButton = () => (
     target="_blank"
     rel="noopener noreferrer"
   >
-    <FaWhatsapp size={40} style={styles.whatsappIcon} />
+
+    <FaWhatsapp size={60} style={styles.whatsappIcon} />
   </a>
 );
 
@@ -26,6 +27,7 @@ const styles = {
     boxShadow: '0 4px 8px rgba(0, 0, 0, 0.2)',
     zIndex: '1000',
     display: 'flex',
+    flexDirection: 'column',
     justifyContent: 'center',
     alignItems: 'center',
     textDecoration: 'none',
@@ -33,6 +35,13 @@ const styles = {
   },
   whatsappIcon: {
     transition: 'transform 0.3s ease',
+  },
+  text: {
+    fontSize: '24px',
+    fontWeight: 'bold',
+    marginBottom: '-40px', /* Ajusta según sea necesario */
+    transform: 'rotate(-20deg)', /* Ajusta según sea necesario */
+    color: 'black', /* Color de texto negro */
   },
 };
 

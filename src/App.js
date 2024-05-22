@@ -3,7 +3,7 @@ import Contact from './Componentes/Contacto';
 import ContactoFormulario from './Componentes/ContactoFormulario';
 import Empresas from './Componentes/EmpresasTrabajadas';
 import FloatingWhatsAppButton from './Componentes/FloatingWhatsAppButton';
-import Footer from './Componentes/Footer';
+
 import Header from './Componentes/Header';
 import Hero from "./Componentes/Hero"
 import PergolasImages from './Componentes/PeregolaImagenes';
@@ -26,7 +26,7 @@ function App() {
       <PergolasImages/>
       <ContactoFormulario/>
       <Contact/>
-      <Footer/>
+
       <FloatingWhatsAppButton/>
      
       

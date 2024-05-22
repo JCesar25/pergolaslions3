@@ -9,7 +9,7 @@ const ReseñasPergolas = () => {
       <div className="card mb-4" style={styles.card}>
         <div className="card-body text-center">
           <p className="card-text" style={styles.cardText}>
-            Las pérgolas metálicas son unas estructuras abiertas que tienen como principal objetivo <strong><u>protegernos</u></strong>. Ya sea para darte sombra en los días de sol, evitar mojarte con la lluvia o que no te afecten los diferentes cambios de temperatura; en Parkings y Marquesinas encontrarás justo lo que necesitas.
+            Las pérgolas metálicas son unas estructuras abiertas que tienen como principal objetivo <strong><u>protegernos</u></strong>. Ya sea para darte sombra en los días de sol, evitar mojarte con la lluvia o que no te afecten los diferentes cambios de temperatura; en Pergolas Exclusivas encontrarás justo lo que necesitas.
           </p>
           <p className="card-text" style={styles.cardText}>
             Si vas a decidirte por las pérgolas de metal, debes saber que no hay nada mejor que pasar un rato a la sombra mientras sientes la brisa. Con esta formación podrás sacarle el máximo partido tanto a la terraza como al jardín, incluso proteger tu coche de las inclemencias climatológicas.
@@ -48,9 +48,7 @@ const ReseñasPergolas = () => {
           <p className="card-text" style={styles.cardText}>
             <strong><u>Pérgolas metálicas modernas:</u></strong> Existen, por ejemplo, pérgolas metálicas con policarbonato. Tienen una protección extra frente a la lluvia o los rayos del sol, disipando el calor de manera efectiva. Las pérgolas de metal modernas aportan, además de calidad y un ambiente acogedor, un aspecto más estético para formar tu rincón favorito de la casa.
           </p>
-          <p className="card-text" style={styles.cardText}>
-            En el catálogo de Parkings y Marquesinas podrás conseguir las mejores ofertas de pérgolas metálicas. Cuéntanos cuál es tu proyecto y te asesoraremos para alcanzar la mejor solución.
-          </p>
+         
         </div>
       </div>
     </div>
