@@ -4,6 +4,7 @@ import empresa1 from '../Assest/Images/Terranova.PNG';
 import empresa2 from '../Assest/Images/BArcelo.PNG';
 import empresa3 from '../Assest/Images/sevilla.PNG';
 import empresa4 from '../Assest/Images/SantaColinas.PNG';
+import empresa5 from '../Assest/Images/Bosques.PNG';
 
 // Agrega más logos de empresas según sea necesario
 
@@ -24,6 +25,9 @@ const Empresas = () => {
           </Col>
           <Col xs={6} sm={4} md={3} lg={2} className="mb-4">
             <img src={empresa4} alt="Empresa 3" style={styles.logo} className="img-fluid" />
+          </Col>
+          <Col xs={6} sm={4} md={3} lg={2} className="mb-4">
+            <img src={empresa5} alt="Empresa 3" style={styles.logo} className="img-fluid" />
           </Col>
           {/* Agrega más columnas según sea necesario */}
         </Row>
